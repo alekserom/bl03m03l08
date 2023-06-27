@@ -1,3 +1,5 @@
+#https://github.com/alekserom/bl03m03l08
+
 #!/bin/bash
 string1=$(whoami)
 string2=root
@@ -36,6 +38,9 @@ echo "Run date and time: $Day-$Month-$Year $Hour:$Minute:$Second" >> /home/alex/
 echo "" >> /home/alex/log.txt
 
 sendmail username@gmail.com  < /home/alex/log.txt
+
+
+
 
 
 
