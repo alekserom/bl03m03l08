@@ -1,0 +1,2 @@
+logwatch --detail Med --mailto romanov.knk@gmail.com --service all --range today
+
